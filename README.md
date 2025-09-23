@@ -50,7 +50,7 @@ spending_score_(1-100) – Spending score assigned by the mall (integer)
 
 📂 Files Included
 
-task1.py → Python script used for cleaning
+mall_customers.csv → Python script used for cleaning
 
 Mall_Customers_Cleaned.csv → Final cleaned dataset
 
